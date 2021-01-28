@@ -1,4 +1,9 @@
-
+/*
+*Author: Hankonen
+*I got a lot of help from this tutorial series on youtube.com by RealTutsGML:
+*https://youtu.be/1gir2R7G9ws
+*
+*/
 package matopeli;
 
 import java.awt.Canvas;
